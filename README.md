@@ -1,7 +1,7 @@
 Hi 👋 My name is Malo Fauchet
 =============================
 
-Computer Science Student
+Computer Science Student - Future Software Engineer
 ------------------------
 
 Hey! I'm Malo, a passionate student developer currently pursuing my degree in Computer Science at at the french IUT of Lannion. I thrive on turning lines of code into functional and innovative solutions. I embarked on this coding adventure with a mission: to explore the vast realms of technology. From tackling complex algorithms to building user-friendly applications, each challenge fuels my curiosity and determination. I'm well-versed in Python, C, Java, Rust, or even some web skills !. Whether it's web development, software engineering, or diving into the latest tech trends, I'm always eager to expand my skill set.
