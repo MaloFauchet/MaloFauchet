@@ -7,7 +7,7 @@ Computer Science Student - Future Software Engineer
 Hey! I'm Malo, a passionate student developer currently pursuing my degree in Computer Science at at the french IUT of Lannion. I thrive on turning lines of code into functional and innovative solutions. I embarked on this coding adventure with a mission: to explore the vast realms of technology. From tackling complex algorithms to building user-friendly applications, each challenge fuels my curiosity and determination. I'm well-versed in Python, C, Java, Rust, or even some web skills !. Whether it's web development, software engineering, or diving into the latest tech trends, I'm always eager to expand my skill set.
 
 * 🌍  I'm based in Brittany, France
-* 🖥️  See my portfolio at [here](http://malofauchet.github.io)
+* 🖥️  See my portfolio at [malofauchet.github.io](http://malofauchet.github.io)
 * ✉️  You can contact me at [malofauchetpro@gmail.com](mailto:malofauchetpro@gmail.com)
 * 🚀  I'm currently working on [the refactoring of my PhotoSorter](http://github.com/MaloFauchet/PhotoSorter)
 * 🧠  I'm learning Computer Sciences at school
@@ -23,7 +23,36 @@ Hey! I'm Malo, a passionate student developer currently pursuing my degree in Co
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/malo_f" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/MaloFauchet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_malo_f_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/malo-fauchet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://discord.com/users/malo_f" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="[undefined](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg)" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.github.com/MaloFauchet" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="http://www.instagram.com/_malo_f_" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="[undefined](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg)" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/malo-fauchet" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+</p>
 
 ### Badges
 
